@@ -1,0 +1,7 @@
+D:\test\.NET\EventHandlingApp\bin\Debug\EventHandlingApp.exe.config
+D:\test\.NET\EventHandlingApp\bin\Debug\EventHandlingApp.exe
+D:\test\.NET\EventHandlingApp\bin\Debug\EventHandlingApp.pdb
+D:\test\.NET\EventHandlingApp\obj\Debug\EventHandlingApp.csproj.AssemblyReference.cache
+D:\test\.NET\EventHandlingApp\obj\Debug\EventHandlingApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\EventHandlingApp\obj\Debug\EventHandlingApp.exe
+D:\test\.NET\EventHandlingApp\obj\Debug\EventHandlingApp.pdb
